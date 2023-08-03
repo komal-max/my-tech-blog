@@ -4,7 +4,7 @@ seoTitle: "Let's Rise and Shine with DevOps"
 datePublished: Thu Aug 03 2023 07:28:11 GMT+0000 (Coordinated Universal Time)
 cuid: clkuu4tjr000109l6ablg6eq4
 slug: lets-rise-and-shine-with-devops
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691046965840/dadc3ea7-c26c-4909-8bca-567df0f52db1.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691048338316/de6ace17-196c-44a4-a494-69f202e7c3a9.png
 tags: automation, devops, agile, devops-articles, trainwithshubham
 
 ---
