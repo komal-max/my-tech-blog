@@ -218,13 +218,14 @@ You can see something similar in the console output:
     
     We will create a container and access the image we created. Make the following changes in the pipeline, save and run the Build
     
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691479969964/77d97bcb-c573-419c-9038-7247c098d3e6.png align="center")
-    
-    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691480061562/98a8de47-f13c-48dd-a0fe-48afbc4a065a.png align="center")
-    
-    we can check using *docker ps-a* command that a new container has been created
-    
-2. ### Deploy application to Tomcat Server
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691479969964/77d97bcb-c573-419c-9038-7247c098d3e6.png align="center")
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691480061562/98a8de47-f13c-48dd-a0fe-48afbc4a065a.png align="center")
+
+we can check using *docker ps-a* command that a new container has been created
+
+1. ### Deploy application to Tomcat Server
     
     Download zip file to install Tomcat server from [https://tomcat.apache.org/download-90.cgi](https://tomcat.apache.org/download-90.cgi). After downloading, unzip and click on file &gt; Select New terminal at Folder &gt; *cd* to *bin* folder, we need to execute startup.sh file but first check if it has execution permissions using:
     
@@ -293,7 +294,7 @@ Final stage view of the pipeline:
         
         If you are using a Mac and installed Jenkins via Brew, you will need to add Docker's path to
         
-        */usr/local/Cellar/jenkins-lts/*2.401.3 */homebrew.mxcl.jenkins-lts.plist*
+        \*/usr/local/Cellar/jenkins-lts/\*2.401.3 */homebrew.mxcl.jenkins-lts.plist*
         
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691524330220/5710941c-8657-4f64-b090-493a9effb219.png align="center")
