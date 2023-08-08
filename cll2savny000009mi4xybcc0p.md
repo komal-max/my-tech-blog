@@ -54,8 +54,7 @@ As we are going to do code quality check as well, install SonarQube Scanner plug
 
 After installing Plugins, go to Manage Jenkins &gt; Tools &gt; Search for JDK installations &gt; give a name expample- jdk17 &gt; Click on Install automatically and then in Add Installer, select Install from adoptium.net and select version jdk-17.0.8+7 (you can select any version of 17 series)
 
-1. ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691462421623/8ee67e77-041f-4b27-a2aa-a1d7b45ea9b6.png align="center")
-    
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1691462421623/8ee67e77-041f-4b27-a2aa-a1d7b45ea9b6.png align="left")
 
 Follow the same steps for Maven, we will install Maven 3 and version 3.9.1
 
