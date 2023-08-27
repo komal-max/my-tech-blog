@@ -1,11 +1,11 @@
 ---
 title: "A Step-by-Step guide to Build and Push Your Own Docker Images to DockerHub"
-seoTitle: "build and push docker image to docker hub"
+seoTitle: "Build and Push Your Own Docker Images to Docker Hub"
 datePublished: Sun Aug 27 2023 17:22:29 GMT+0000 (Coordinated Universal Time)
 cuid: clltpxjbx000909jn0m516cv3
 slug: a-step-by-step-guide-to-build-and-push-your-own-docker-images-to-dockerhub
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693156907924/f85f2c7c-0efe-4319-a0a0-877f7220ba7c.png
-tags: docker, nginx, docker-images, docker-build, docker-push
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1693158032807/47f3476b-8162-4ec9-b038-ca2523c02780.webp
+tags: docker, nginx, docker-images, dockerhub, docker-build
 
 ---
 
