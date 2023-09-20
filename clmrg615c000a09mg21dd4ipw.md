@@ -96,7 +96,7 @@ For example, 4 + 2 + 1 = 7, which grants read, write, and execute permissions; 4
 
 <table><tbody><tr><td colspan="1" rowspan="1"><p>0</p></td><td colspan="1" rowspan="1"><p>&nbsp;- - -</p></td><td colspan="1" rowspan="1"><p>no access</p></td></tr><tr><td colspan="1" rowspan="1"><p>1</p></td><td colspan="1" rowspan="1"><p>- - x</p></td><td colspan="1" rowspan="1"><p>execute only &nbsp;</p></td></tr><tr><td colspan="1" rowspan="1"><p>2</p></td><td colspan="1" rowspan="1"><p>- w -</p></td><td colspan="1" rowspan="1"><p>write access only</p></td></tr><tr><td colspan="1" rowspan="1"><p>3</p></td><td colspan="1" rowspan="1"><p>- w x</p></td><td colspan="1" rowspan="1"><p>write and execute</p></td></tr><tr><td colspan="1" rowspan="1"><p>4</p></td><td colspan="1" rowspan="1"><p>r - -</p></td><td colspan="1" rowspan="1"><p>read only</p></td></tr><tr><td colspan="1" rowspan="1"><p>5</p></td><td colspan="1" rowspan="1"><p>r - x</p></td><td colspan="1" rowspan="1"><p>read and execute</p></td></tr><tr><td colspan="1" rowspan="1"><p>6</p></td><td colspan="1" rowspan="1"><p>r w -</p></td><td colspan="1" rowspan="1"><p>read and write</p></td></tr><tr><td colspan="1" rowspan="1"><p>7</p></td><td colspan="1" rowspan="1"><p>r w x</p></td><td colspan="1" rowspan="1"><p>read, write and execute (full access)</p></td></tr></tbody></table>
 
-### Change the permission of a file
+### Change the permissions of a file
 
 To change the permissions of a file, for example- grant read, write and execute permissions to user, read, write to group and only read to others, use:
 
